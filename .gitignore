@@ -32,3 +32,5 @@ wandb/
 # OS
 .DS_Store
 Thumbs.db
+
+manuscript.md
