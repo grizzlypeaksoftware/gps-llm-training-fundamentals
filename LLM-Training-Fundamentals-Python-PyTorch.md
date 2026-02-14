@@ -8,6 +8,8 @@ This guide breaks down the core concepts behind LLM training and walks you throu
 
 Python with PyTorch is the dominant choice for LLM training at every scale, from toy models on a laptop to frontier models on thousand-GPU clusters. This guide covers both the theory and practical implementations you can run today. No PhD required — just familiarity with Python and a willingness to think in matrices.
 
+All code examples are available as runnable scripts in the [companion repository](https://github.com/grizzlypeaksoftware/gps-llm-training-fundamentals).
+
 ---
 
 ## Part 1: What Is an LLM, Really?
